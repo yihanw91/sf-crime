@@ -2,3 +2,7 @@
 !.gitignore
 data/
 *.png
+crime_eda_modeling.ipynb
+final_project_checkin_template.ipynb
+model_with_three_categories.ipynb
+EDAplot.ipynb
